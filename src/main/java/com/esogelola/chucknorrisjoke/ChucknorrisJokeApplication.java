@@ -10,4 +10,7 @@ public class ChucknorrisJokeApplication {
 		SpringApplication.run(ChucknorrisJokeApplication.class, args);
 	}
 
+
+
+
 }
