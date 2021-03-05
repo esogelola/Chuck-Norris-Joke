@@ -9,7 +9,7 @@
 ## Usage
 
 ```sh
-Clone repo -> Open InteliJ and run
+Clone repo -> Open IntelliJ and run
 ```
 
 ## Author
